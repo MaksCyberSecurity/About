@@ -51,11 +51,4 @@
 
 ---
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjMGdieGV0Zml5ZDhlNDA2dnI3d3ZtMDBlcnRjbG5haWZzazNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="100" height="100"/>
-</p>
-
----
-
 <h3 align="center">💻 Stay safe, stay secure! 🛡️</h3>
