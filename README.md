@@ -1,9 +1,5 @@
-<h1 align="center">Good day 👋, I'm Maksim</h1>
-<h3 align="center">A passionate Cyber Security postgraduate student from the United Kingdom</h3>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjMGdieGV0Zml5ZDhlNDA2dnI3d3ZtMDBlcnRjbG5haWZzazNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="100" height="100"/>
-</p>
+<h1 align="center">Hello World, I'm Maksim</h1>
+<h3 align="center">A passionate Cyber Security postgraduate student from the United Kingdom.</h3>
 
 ---
 
@@ -36,24 +32,6 @@
 
 ---
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
 <h2 align="left">What You’ll Find in This Repository</h2>
 
 <p align="left">
@@ -69,6 +47,13 @@
 
 <p align="left">
   Whether you're a small business, a non-profit, or a growing enterprise, this resource is designed to help you build a safer, more secure digital environment. Let’s work together to protect what matters!
+</p>
+
+---
+
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjMGdieGV0Zml5ZDhlNDA2dnI3d3ZtMDBlcnRjbG5haWZzazNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="100" height="100"/>
 </p>
 
 ---
