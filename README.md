@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cyber Security postgraduate student from the United Kingdom</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhiNzhlODdmOTNlNGNiMjBhZTE2MGFjYjAzNjNiNTY5OTlhODRjOCZjdD1n/TlK63ENMQWf98sxArQ/giphy.gif" width="100" height="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjMGdieGV0Zml5ZDhlNDA2dnI3d3ZtMDBlcnRjbG5haWZzazNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="100" height="100"/>
 </p>
 
 ---
@@ -36,18 +36,6 @@
 
 ---
 
-<h2 align="left">Connect with Me:</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -55,9 +43,6 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
